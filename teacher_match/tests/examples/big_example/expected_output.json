@@ -1,0 +1,29 @@
+{
+    "queues": [
+        {
+            "principalId": 6,
+            "principalQueue": [
+                5,
+                8
+            ]
+        },
+        {
+            "principalId": 2,
+            "principalQueue": [
+                19
+            ]
+        },
+        {
+            "principalId": 7,
+            "principalQueue": [
+                19
+            ]
+        },
+        {
+            "principalId": 10,
+            "principalQueue": [
+                25
+            ]
+        }
+    ]
+}

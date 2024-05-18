@@ -1,0 +1,10 @@
+{
+  "queues": [
+    {
+      "principalId": 1,
+      "principalQueue": [
+        1
+      ]
+    }
+  ]
+}

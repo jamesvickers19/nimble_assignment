@@ -1,0 +1,511 @@
+{
+    "teachers": [
+        {
+            "id": 1,
+            "name": "Arthur Percy",
+            "geography": "Chicago",
+            "subjects": [
+                "History"
+            ],
+            "grades": [
+                "Pre-Kindergarten"
+            ],
+            "credentials": "Expired"
+        },
+        {
+            "id": 2,
+            "name": "Dukie Nowakowski",
+            "geography": "Detroit",
+            "subjects": [
+                "Science",
+                "History",
+                "Special Education"
+            ],
+            "grades": [
+                "Kindergarten"
+            ],
+            "credentials": "Active"
+        },
+        {
+            "id": 3,
+            "name": "Jud Sowte",
+            "geography": "Minneapolis",
+            "subjects": [
+                "History"
+            ],
+            "grades": [
+                "2nd grades",
+                "Pre-Kindergarten"
+            ],
+            "credentials": "No credentials"
+        },
+        {
+            "id": 4,
+            "name": "Gibby Godspede",
+            "geography": "Detroit",
+            "subjects": [
+                "History"
+            ],
+            "grades": [
+                "1st grades",
+                "4th grades"
+            ],
+            "credentials": "Expired"
+        },
+        {
+            "id": 5,
+            "name": "Granny Pattrick",
+            "geography": "Milwaukee",
+            "subjects": [
+                "Science",
+                "Special Education",
+                "English",
+                "Math"
+            ],
+            "grades": [
+                "3rd grades",
+                "2nd grades"
+            ],
+            "credentials": "Active"
+        },
+        {
+            "id": 6,
+            "name": "Starlene Roblin",
+            "geography": "Kansas City",
+            "subjects": [
+                "Special Education",
+                "History",
+                "English"
+            ],
+            "grades": [
+                "1st grades"
+            ],
+            "credentials": "Expired"
+        },
+        {
+            "id": 7,
+            "name": "Andre Ismail",
+            "geography": "Kansas City",
+            "subjects": [
+                "English",
+                "History",
+                "Science",
+                "Math",
+                "Special Education"
+            ],
+            "grades": [
+                "5th grades"
+            ],
+            "credentials": "Active"
+        },
+        {
+            "id": 8,
+            "name": "Constance Renn",
+            "geography": "Milwaukee",
+            "subjects": [
+                "History",
+                "Special Education",
+                "Math",
+                "English",
+                "Science"
+            ],
+            "grades": [
+                "2nd grades"
+            ],
+            "credentials": "Active"
+        },
+        {
+            "id": 9,
+            "name": "Lorens Aukland",
+            "geography": "Kansas City",
+            "subjects": [
+                "History",
+                "Special Education",
+                "Math",
+                "English"
+            ],
+            "grades": [
+                "3rd grades",
+                "Kindergarten"
+            ],
+            "credentials": "Expired"
+        },
+        {
+            "id": 10,
+            "name": "Garry Edgler",
+            "geography": "Chicago",
+            "subjects": [
+                "English"
+            ],
+            "grades": [
+                "5th grades",
+                "Kindergarten"
+            ],
+            "credentials": "No credentials"
+        },
+        {
+            "id": 11,
+            "name": "Vallie Cardo",
+            "geography": "Kansas City",
+            "subjects": [
+                "Special Education",
+                "Science",
+                "History"
+            ],
+            "grades": [
+                "Pre-Kindergarten",
+                "3rd grades"
+            ],
+            "credentials": "Active"
+        },
+        {
+            "id": 12,
+            "name": "Kala Dineen",
+            "geography": "Kansas City",
+            "subjects": [
+                "Special Education"
+            ],
+            "grades": [
+                "Kindergarten",
+                "2nd grades"
+            ],
+            "credentials": "No credentials"
+        },
+        {
+            "id": 13,
+            "name": "Leanna Klugman",
+            "geography": "Kansas City",
+            "subjects": [
+                "English",
+                "Special Education",
+                "History"
+            ],
+            "grades": [
+                "Kindergarten"
+            ],
+            "credentials": "Active"
+        },
+        {
+            "id": 14,
+            "name": "Karin Bohlsen",
+            "geography": "Minneapolis",
+            "subjects": [
+                "History",
+                "English",
+                "Math",
+                "Special Education"
+            ],
+            "grades": [
+                "3rd grades"
+            ],
+            "credentials": "Active"
+        },
+        {
+            "id": 15,
+            "name": "Lula Robbeke",
+            "geography": "Chicago",
+            "subjects": [
+                "English",
+                "Special Education",
+                "Math"
+            ],
+            "grades": [
+                "2nd grades"
+            ],
+            "credentials": "Expired"
+        },
+        {
+            "id": 16,
+            "name": "Brant Lathe",
+            "geography": "Kansas City",
+            "subjects": [
+                "Special Education",
+                "Science",
+                "English"
+            ],
+            "grades": [
+                "Kindergarten",
+                "Pre-Kindergarten"
+            ],
+            "credentials": "Active"
+        },
+        {
+            "id": 17,
+            "name": "Felecia Farrand",
+            "geography": "Minneapolis",
+            "subjects": [
+                "English",
+                "Special Education",
+                "Math",
+                "History",
+                "Science"
+            ],
+            "grades": [
+                "Kindergarten",
+                "3rd grades"
+            ],
+            "credentials": "No credentials"
+        },
+        {
+            "id": 18,
+            "name": "Sallyanne Butfield",
+            "geography": "Chicago",
+            "subjects": [
+                "Math",
+                "Science",
+                "History",
+                "English",
+                "Special Education"
+            ],
+            "grades": [
+                "2nd grades"
+            ],
+            "credentials": "Expired"
+        },
+        {
+            "id": 19,
+            "name": "Goldy Chazerand",
+            "geography": "Detroit",
+            "subjects": [
+                "English"
+            ],
+            "grades": [
+                "Kindergarten"
+            ],
+            "credentials": "Active"
+        },
+        {
+            "id": 20,
+            "name": "Abbott Benardeau",
+            "geography": "Kansas City",
+            "subjects": [
+                "Math",
+                "Science",
+                "History"
+            ],
+            "grades": [
+                "2nd grades",
+                "Kindergarten"
+            ],
+            "credentials": "Expired"
+        },
+        {
+            "id": 21,
+            "name": "Hill Farris",
+            "geography": "Kansas City",
+            "subjects": [
+                "English",
+                "History",
+                "Special Education"
+            ],
+            "grades": [
+                "Pre-Kindergarten",
+                "2nd grades"
+            ],
+            "credentials": "No credentials"
+        },
+        {
+            "id": 22,
+            "name": "Kyrstin Picknett",
+            "geography": "Minneapolis",
+            "subjects": [
+                "Special Education",
+                "English",
+                "Science",
+                "Math"
+            ],
+            "grades": [
+                "4th grades",
+                "2nd grades"
+            ],
+            "credentials": "No credentials"
+        },
+        {
+            "id": 23,
+            "name": "Lynnea Goldup",
+            "geography": "Detroit",
+            "subjects": [
+                "Science",
+                "History",
+                "Special Education",
+                "Math"
+            ],
+            "grades": [
+                "5th grades"
+            ],
+            "credentials": "Expired"
+        },
+        {
+            "id": 24,
+            "name": "Sybyl Foxwell",
+            "geography": "Chicago",
+            "subjects": [
+                "English"
+            ],
+            "grades": [
+                "Pre-Kindergarten"
+            ],
+            "credentials": "Active"
+        },
+        {
+            "id": 25,
+            "name": "Constantia Bercevelo",
+            "geography": "Milwaukee",
+            "subjects": [
+                "Special Education",
+                "Science",
+                "Math",
+                "History"
+            ],
+            "grades": [
+                "Kindergarten",
+                "4th grades"
+            ],
+            "credentials": "Active"
+        }
+    ],
+    "principals": [
+        {
+            "id": 1,
+            "name": "ipetruskevich0",
+            "location": "Chicago",
+            "openRoles": [
+                {
+                    "subject": "Math",
+                    "grade": "Pre-Kindergarten"
+                },
+                {
+                    "subject": "Science",
+                    "grade": "3rd grades"
+                },
+                {
+                    "subject": "Science",
+                    "grade": "Kindergarten"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "abanton1",
+            "location": "Detroit",
+            "openRoles": [
+                {
+                    "subject": "Special Education",
+                    "grade": "Pre-Kindergarten"
+                },
+                {
+                    "subject": "English",
+                    "grade": "Kindergarten"
+                },
+                {
+                    "subject": "History",
+                    "grade": "5th grades"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "tkonzelmann2",
+            "location": "Minneapolis",
+            "openRoles": [
+                {
+                    "subject": "Special Education",
+                    "grade": "4th grades"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "ddewerson3",
+            "location": "Chicago",
+            "openRoles": [
+                {
+                    "subject": "Special Education",
+                    "grade": "1st grades"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "kecob4",
+            "location": "Detroit",
+            "openRoles": [
+                {
+                    "subject": "History",
+                    "grade": "Pre-Kindergarten"
+                },
+                {
+                    "subject": "English",
+                    "grade": "Pre-Kindergarten"
+                },
+                {
+                    "subject": "History",
+                    "grade": "2nd grades"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "manthonsen5",
+            "location": "Milwaukee",
+            "openRoles": [
+                {
+                    "subject": "Science",
+                    "grade": "3rd grades"
+                },
+                {
+                    "subject": "History",
+                    "grade": "2nd grades"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "sgrishin6",
+            "location": "Detroit",
+            "openRoles": [
+                {
+                    "subject": "English",
+                    "grade": "Kindergarten"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "abaud7",
+            "location": "Detroit",
+            "openRoles": [
+                {
+                    "subject": "English",
+                    "grade": "2nd grades"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "hgrigorian8",
+            "location": "Chicago",
+            "openRoles": [
+                {
+                    "subject": "Special Education",
+                    "grade": "1st grades"
+                },
+                {
+                    "subject": "Science",
+                    "grade": "2nd grades"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "cludman9",
+            "location": "Milwaukee",
+            "openRoles": [
+                {
+                    "subject": "Science",
+                    "grade": "4th grades"
+                }
+            ]
+        }
+    ]
+}

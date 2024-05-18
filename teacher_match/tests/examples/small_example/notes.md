@@ -1,0 +1,1 @@
+This is taken from the small example given in the input/outputs description.

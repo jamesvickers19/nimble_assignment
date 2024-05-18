@@ -1,0 +1,60 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "name": "PF",
+      "geography": "New York",
+      "subjects": [
+        "Math",
+        "Science"
+      ],
+      "grades": [
+        "1st grades"
+      ],
+      "credentials": "Active"
+    },
+    {
+      "id": 2,
+      "name": "SP",
+      "geography": "Chicago",
+      "subjects": [
+        "English",
+        "History"
+      ],
+      "grades": [
+        "Kindergarten",
+        "Pre-Kindergarten",
+        "1st grades"
+      ],
+      "credentials": "Expired"
+    }
+  ],
+  "principals": [
+    {
+      "id": 1,
+      "name": "LD",
+      "location": "New York",
+      "openRoles": [
+        {
+          "subject": "Science",
+          "grade": "1st grades"
+        },
+        {
+          "subject": "Math",
+          "grade": "1st grades"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "OA",
+      "location": "Bismarck",
+      "openRoles": [
+        {
+          "subject": "Special Education",
+          "grade": "1st grades"
+        }
+      ]
+    }
+  ]
+}
