@@ -48,7 +48,7 @@ since this is not semantically important, including in tests using `expected_out
 
 A straightforward implementation of matching teachers to principals would be to
 iterate the teachers and for each one, iterate the principals and find matching ones by
-location/subject/grade; the first commit in the repo has this implementation.
+location/subject/grade; commit dfbfcc2f5c7135705a54a861131305181a312800 has this implementation.
 This approach is easy to understand and has low memory usage, but the runtime scales
 poorly with the number of teachers and principals. On the principals side the main runtime
 factor is the total number of open roles among them: this approach has a runtime of `O(T * R)`,
