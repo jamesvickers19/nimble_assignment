@@ -64,3 +64,9 @@ The straightforward approach may be preferable if the number of teachers and pri
 algorithm is being used on is below some size, as it may run faster (not building the lookup) and
 is easier to understand. The size where the lookup-based algorithm begins to be worth it's complexity could
 be determined empirically by benchmarking.
+
+# Improvements
+
+The repository could use some automation on running tests and linting the code.
+Github Workflows would be one approach, tried adding one but didn't work out-of-the-box,
+needs investigation.
