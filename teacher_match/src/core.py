@@ -22,6 +22,24 @@ def build_open_role_lookup(principals):
     return lookup
 
 
+"""
+Returns teacher id's matched up to principals like:
+{'queues': [
+  {
+    'principalId': 123,
+    'principalQueue': [456, 789]
+  }
+  ...
+  ]}
+  
+Where principalQueue is teacher id's for teachers with active credentials and matching
+subjects, grades, and location to at least one of the open roles the principal has.
+
+The matching technique is to build a multi-level lookup by location, grades, and subjects
+and then use that to find matching principals for each teacher.   
+"""
+
+
 def match_teachers_to_principals(data):
     principal_queues_by_id = {}
     if data:
