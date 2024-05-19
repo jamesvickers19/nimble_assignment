@@ -13,5 +13,5 @@ queue JSON to the provided output_file_path.
 def process_file(input_file_path, output_file_path):
     data = load_json(input_file_path)
     results = match_teachers_to_principals(data)
-    with open(output_file_path, 'w') as output_file:
+    with open(output_file_path, "w") as output_file:
         json.dump(results, output_file, indent=4)

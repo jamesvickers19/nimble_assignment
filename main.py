@@ -10,5 +10,5 @@ def main(args):
     process_file(args[1], args[2])
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main(sys.argv)
